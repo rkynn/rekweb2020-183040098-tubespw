@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+}
+
+.container{
+	margin-top: 100px;
+	width: 1600px !important;
+}
+h1 {
+	color: skyblue;
+	text-align: center;
+}
+
+.gambar {
+	width: 200px;
+}
+
+table {
+	background-color: salmon;
+	margin: auto;
+	text-align: center;
+}
+
+button.tambah {
+	margin-left: 104px;
+	margin-bottom: 5px;
+}
+
+nav.form-control {
+	margin-left: 104px;
+	margin-bottom: 5px;
+}
+
+.data {
+	color: black;
+}
+
+.navbar .form-inline{
+	margin: left;
+}
